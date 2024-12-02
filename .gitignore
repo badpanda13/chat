@@ -2,8 +2,9 @@
 
 # dependencies
 /client/node_modules
-./node_modules 
-/client/.pnp
+/node_modules 
+node_modules
+client/.pnp
 client/client/.pnp.js
 
 # testing
