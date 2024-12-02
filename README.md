@@ -1,5 +1,5 @@
 # chat
-Chat (websocket, angular, typescript)
+Chat (websocket, react, typescript)
 
 server starts at the root with command: node server.js
 
